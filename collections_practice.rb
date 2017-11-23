@@ -28,5 +28,3 @@ def kesha_maker(array)
     new_array.push(el)
   end
 end
-
-
